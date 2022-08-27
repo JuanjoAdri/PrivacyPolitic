@@ -1,0 +1,2 @@
+# PrivacyPolitic
+Privacy politic
